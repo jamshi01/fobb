@@ -1,0 +1,8 @@
+.paragraph{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+body{
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+}
